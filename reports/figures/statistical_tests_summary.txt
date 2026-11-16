@@ -1,0 +1,4 @@
+North vs South Local Rice t-test: t=16.4765, p=1.7825e-52
+North mean: NGN 531.14, South mean: NGN 362.94
+Maize ANOVA F-statistic: F=88.4184, p=2.8223e-54
+OLS Rice on Fuel: R2=0.8690, Fuel coef=0.5242, p=2.9169e-51
